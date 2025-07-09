@@ -3,6 +3,7 @@
 This project is part of my Web3 Data Analyst portfolio. It provides real-time tracking of key DeFi metrics such as **Total Value Locked (TVL)**, token prices, and activity across protocols like **Uniswap, Aave, and Curve** using public APIs.
 
 ---
+ 🔗 [Live Demo](https://01-defi-dashboard.streamlit.app)
 
 🔍 Features
 
