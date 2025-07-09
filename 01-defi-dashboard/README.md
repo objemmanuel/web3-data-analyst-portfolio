@@ -30,6 +30,9 @@ Built using:
 - `CoinGecko API`
 - `DefiLlama API`
 
+![Dashboard Screenshot](images/defi-2.png)
+![Dashboard Screenshot](images/defi-dashboard.png)
+
  🔧 How to Run
 
 ```bash
