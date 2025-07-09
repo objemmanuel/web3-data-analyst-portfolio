@@ -35,6 +35,9 @@ Analyze top NFT collections with real-time stats:
 ![Dashboard Screenshot](images/NFT-4.png)
 
 
+ 🌍 Live Demo
+
+[Click here to explore the dashboard](https://your-name-nft-dashboard.streamlit.app)
 
 🔧 How to Run
 
