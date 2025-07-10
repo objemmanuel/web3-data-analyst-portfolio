@@ -13,6 +13,11 @@ Track how tokens move between wallets and detect large transactions (whale movem
 - 🚀 Built using Streamlit + NetworkX + Plotly
 
 ---
+🔗 [Live Demo](https://track-token.streamlit.app)
+
+![Dashboard Screenshot](images/token.png)
+![Dashboard Screenshot](images/token2.png)
+
 
  ⚙️ Tech Stack
 
