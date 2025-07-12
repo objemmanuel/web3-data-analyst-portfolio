@@ -1,0 +1,6 @@
+pandas
+plotly
+requests
+markdown
+pdfkit
+notebook
