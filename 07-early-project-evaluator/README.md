@@ -55,6 +55,9 @@ Test the app using these token IDs from CoinGecko:
 
 ---
 
+🔗 [Live Demo](https://web3-project-evaluator.streamlit.app)
+
+
 ## 🖼️ Screenshot
 
 ![Evaluator Screenshot](images/early.png)
