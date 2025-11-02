@@ -14,11 +14,11 @@ A collection of 10 real-world Web3-focused data analytics projects — including
 | 3️⃣ | [Smart Contract Interaction Analyzer](./03-smart-contract-analyzer) | Monitor how smart contracts are used — gas usage, wallet diversity, frequency.                        | Etherscan API, Web3.py, Plotly              | ✅ Completed    |
 | 4️⃣ | [Token Flow & Whale Tracker](./04-token-flow-tracker)            | Visualize token movement across wallets and detect large whale behaviors.                            | NetworkX, Etherscan, Python, Streamlit      | ✅ Completed    |
 | 5️⃣ | [Token Price / TVL Prediction ML Model](./05-token-price-predictor) | Forecast token metrics using time-series models (Prophet, Plotly).                                  | Prophet, scikit-learn, Plotly, Streamlit    | ✅ Completed    |
-| 6️⃣ | “State of the Chain” Report Generator                    | Generate monthly blockchain intelligence reports with trend analysis.                                | Jupyter, Markdown, LaTeX                   | 🔜 Coming Soon |
-| 7️⃣ | Early-Stage Project Metrics Evaluator                    | Score early DeFi/NFT projects by DAU, TVL, tokenomics, retention, and growth.                        | Dune, Excel, Custom Scoring                 | 🔜 Coming Soon |
-| 8️⃣ | Staking Pool & Validator Analytics                       | Analyze staking behavior, validator distribution, and trends.                                        | Subgraphs, RPC Nodes, SQL                  | 🔜 Coming Soon |
-| 9️⃣ | DAO Governance Tracker                                   | Visualize DAO proposals, voting patterns, and top voters across DAOs.                                | Snapshot, The Graph, Tally API              | 🔜 Coming Soon |
-| 🔟 | Blockchain Data ETL Pipeline                             | Clean and normalize blockchain data from APIs, RPC nodes, and subgraphs.                            | Web3.py, Airflow, PostgreSQL                | 🔜 Coming Soon |
+| 6️⃣ | [State of the Chain Report Generator](./06-state-of-the-chain)               | Generate monthly blockchain intelligence reports with trend analysis.                                | Jupyter, Markdown, LaTeX                   | ✅ Completed  |
+| 7️⃣ | [Early-Stage Project Metrics Evaluator](./07-early-project-evaluator)                   | Score early DeFi/NFT projects by DAU, TVL, tokenomics, retention, and growth.                        | Dune, Excel, Custom Scoring                 | ✅ Completed  |
+| 8️⃣ | [Staking Pool & Validator Analytics](./08-staking-analytics)                       | Analyze staking behavior, validator distribution, and trends.                                        | Subgraphs, RPC Nodes, SQL                  | ✅ Completed  |
+| 9️⃣ | [DAO Governance Tracker](./09-governance-analytics)                                   | Visualize DAO proposals, voting patterns, and top voters across DAOs.                                | Snapshot, The Graph, Tally API              | ✅ Completed  |
+| 🔟 | Blockchain Data ETL Pipeline                             | Clean and normalize blockchain data from APIs, RPC nodes, and subgraphs.                            | Web3.py, Airflow, PostgreSQL                | ✅ Completed  |
 
 ---
 
@@ -44,19 +44,23 @@ A collection of 10 real-world Web3-focused data analytics projects — including
 
 ## 📸 Demo Screenshots
 
-> You can replace these with real images from the `images/` folders of each project:
 
 ![DeFi Dashboard](./01-defi-dashboard/images/defi-2.png)
 ![NFT Dashboard](./02-nft-dashboard/images/NFT-1.png)
 ![Smart Contract Analyzer](./03-smart-contract-analyzer/images/smart.png)
 ![Whale Tracker](./04-token-flow-tracker/images/token.png)
 ![TVL Prediction](./05-token-price-predictor/images/tokenprice.png)
+![State of the Chain](./06-state-of-the-chain/images/eth-fees-line.png)
+![Early-Stage Project Metrics](./07-early-project-evaluator/images/early.png)
+![Staking Pool](./08-staking-analytics/images/staking1.png)
+![DAO Governance Tracker](./09-governance-analytics/images/dao.png)
+
 
 ---
 
 ## 🌐 Live Demos
 
-| Project                        | Demo Link (Replace with yours)                         |
+| Project                        | Demo Link                         |
 |-------------------------------|--------------------------------------------------------|
 | 1️⃣ DeFi Protocol Dashboard     | [Streamlit App](https://01-defi-dashboard.streamlit.app)       |
 | 2️⃣ NFT Analytics Dashboard     | [Streamlit App](https://nft-dashboard.streamlit.app)           |
