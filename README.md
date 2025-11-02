@@ -67,9 +67,11 @@ A collection of 10 real-world Web3-focused data analytics projects — including
 | 3️⃣ Smart Contract Analyzer     | [Streamlit App](https://contractanalyzer.streamlit.app)        |
 | 4️⃣ Token Whale Tracker         | [Streamlit App](https://track-token.streamlit.app)            |
 | 5️⃣ Token Forecast ML App       | [Streamlit App](https://token-forecast.streamlit.app)          |
+| 6 Early-Stage Project Evaluator      | [Streamlit App](https://web3-project-evaluator.streamlit.app)   |
+| 7 Solana & Ethereum Staking Analytics Dashboard | [Streamlit App](https://staking-analytics.streamlit.app/)   |
+| 8 DAO Governance Tracker     | [Streamlit App](https://dao-governance.streamlit.app)   |
 
 
----
 
 ## 💡 Why This Portfolio?
 
